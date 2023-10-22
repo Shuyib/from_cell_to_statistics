@@ -1,3 +1,7 @@
+[![cell2statistics study Continuous Integration/Continuos Delivery](https://github.com/Shuyib/from_cell_to_statistics/actions/workflows/dev.yml/badge.svg)](https://github.com/Shuyib/from_cell_to_statistics/actions/workflows/devops.yml)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Shuyib/from_cell_to_statistics/HEAD
+
+
 This is a workshop about Genomic Data Science/Bioinformatics. We go from the basics of cell
 and molecular biology to the analysis of high-throughput sequencing data. We use a couple of
 examples to illustrate the concepts and tools used in the field. The workshop is divided in:
