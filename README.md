@@ -29,7 +29,8 @@ Goals:
 ```
 .
 ├── data
-│   ├── 60731777.jpeg - Bhki logo   
+│   ├── 60731777.jpeg - Bhki logo
+│   ├── Bioinformatics for everyone.pptx - full presentation    	   
 │   ├── chr-1.fasta - Chromosome 1 of human genome   
 │   ├── dna_20000.txt - DNA sequence of 20000 nucleotides   
 │   ├── ecoli.fasta - Ecoli genome   
