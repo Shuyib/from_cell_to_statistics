@@ -66,7 +66,9 @@ make install
 # Run the notebook   
 ```bash
 jupyter notebook 
-``` 
+```
+# View notebook    
+https://nbsanity.com/Shuyib/from_cell_to_statistics/blob/main/Practicing%20file%20manipulation%20for%20bioinformatics1.ipynb   
 
 # Run Docker container   
 ```bash
