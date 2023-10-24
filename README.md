@@ -34,7 +34,7 @@ Where to learn more:
 * [Coursera Specialization: Genomic Data Science](https://www.coursera.org/specializations/genomic-data-science)    
 * [Bioinformatics Specialization](https://www.coursera.org/specializations/genomic-data-science)     
 * East African Bioinformatics communities:    
-  <ins>bhki.org</ins>
+  <ins>bhki.org</ins>    
   [EanBit](https://eanbit.icipe.org/)    
   [H3Africa](https://h3africa.org/)    
 
