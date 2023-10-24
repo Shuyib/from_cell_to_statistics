@@ -33,8 +33,8 @@ Where to learn more:
 * [Rosalind](https://rosalind.info/problems/locations/)    
 * [Coursera Specialization: Genomic Data Science](https://www.coursera.org/specializations/genomic-data-science)    
 * [Bioinformatics Specialization](https://www.coursera.org/specializations/genomic-data-science)     
-* East African Bioinformatics communities:
-  [BHki](bhki.org)    
+* East African Bioinformatics communities:    
+  [BHki](bhki.org/)    
   [EanBit](https://eanbit.icipe.org/)    
   [H3Africa](https://h3africa.org/)    
 
