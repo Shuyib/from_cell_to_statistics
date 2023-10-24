@@ -30,10 +30,10 @@ Goals:
 * Develop an interest for bioinformatics.
 
 Where to learn more:   
-* [Rosalind](https://rosalind.info/problems/locations/)
-* [Coursera Specialization: Genomic Data Science](https://www.coursera.org/specializations/genomic-data-science)
-* [Bioinformatics Specialization](https://www.coursera.org/specializations/genomic-data-science)
-* East African Bioinformatics communities: [Bioinformatics hub of Kenya Initiative](bhki.org), [EanBit](https://eanbit.icipe.org/)
+* [Rosalind](https://rosalind.info/problems/locations/)    
+* [Coursera Specialization: Genomic Data Science](https://www.coursera.org/specializations/genomic-data-science)    
+* [Bioinformatics Specialization](https://www.coursera.org/specializations/genomic-data-science)     
+* East African Bioinformatics communities: [Bioinformatics Hub of Kenya Initiative](bhki.org), [EanBit](https://eanbit.icipe.org/)
   & [H3Africa](https://h3africa.org/)    
 
 # File structure
