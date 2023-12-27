@@ -83,7 +83,7 @@ https://nbsanity.com/Shuyib/from_cell_to_statistics/blob/main/Practicing%20file%
 
 # Run Docker container   
 ```bash
-docker build -t bioenv .
+sudo docker build -t bioenv .
 sudo docker run -p 9090:9090 bioenv
 ```
 
