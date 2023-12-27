@@ -54,7 +54,7 @@ Where to learn more:
 ├── Makefile - Workflow to run the scripts   
 ├── Practicing file manipulation for bioinformatics1.ipynb - Jupyter notebook  
 ├── readfastq.py - Python script to read fastq files  
-├── README.md - This file  
+├── README.md - This is file you are reading at the moment     
 ├── Replicate this in other IDE-2.png - Image  
 ├── Replicate this in other IDEs -1.png - Image   
 └── requirements.txt - Python packages to install   
